@@ -48,4 +48,5 @@ exit /b 1
 echo Path is not set.
 )
 echo Installed!
+echo To execute adb and fastboot command, please install Google USB driver. ggrks
 pause
