@@ -1,5 +1,6 @@
 chcp 65001
 @echo off
+color 17
 echo Easy ADB and Fastboot Installer
 echo Creating Folder...
 if not exist "C:\platform-tools" mkdir "C:\platform-tools"
